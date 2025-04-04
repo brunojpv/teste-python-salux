@@ -61,11 +61,10 @@ python main.py
 
 ## 📁 Estrutura
 ```bash
-| projeto-python-salux/ |
-|-----------------------|---------------------------------------------|
-| ├── main.py           | # Script principal com as 3 funcionalidades |
-| ├── README.md         | # Este arquivo                              |
-| └── venv/             | # Ambiente virtual (não incluso no Git)     |
+projeto-python-salux/
+├── main.py             # Script principal com as 3 funcionalidades
+├── README.md           # Este arquivo
+└── venv/               # Ambiente virtual (não incluso no Git)
 ```
 
 ---
@@ -79,6 +78,7 @@ Pode ser executado localmente ou adaptado para notebooks/Jupyter.
 ---
 
 ## ✍️ Autor
-Bruno Vieira
-LinkedIn
-Desenvolvedor .NET e Python | Projetos educacionais e de software | 10+ anos de experiência
+
+**Bruno Vieira**  
+💻 Desenvolvedor .NET e Python | Projetos educacionais e de software | 10+ anos de experiência
+🔗 [linkedin.com/in/brunojpv](https://www.linkedin.com/in/brunojpv)
