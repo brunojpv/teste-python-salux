@@ -80,5 +80,5 @@ Pode ser executado localmente ou adaptado para notebooks/Jupyter.
 ## ✍️ Autor
 
 **Bruno Vieira**  
-💻 Desenvolvedor .NET e Python | Projetos educacionais e de software | 10+ anos de experiência
+💻 Desenvolvedor .NET e Python  
 🔗 [linkedin.com/in/brunojpv](https://www.linkedin.com/in/brunojpv)
